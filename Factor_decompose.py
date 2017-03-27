@@ -7,7 +7,7 @@ Created on Tue Mar 21 16:55:05 2017
 
 #一个数如果恰好等于它的因子之和，这个数就称为"完数"。例如6=1＋2＋3.
 #编程找出1000以内的所有完数。
-#分析：请参照程序Python 练习实例14。
+
    
 def Factor(n):
     if not isinstance(n,int) or n<0:
