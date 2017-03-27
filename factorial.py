@@ -4,7 +4,7 @@ Created on Sat Mar 18 20:24:45 2017
 
 @author: welcome
 """
-'''
+
 def factorial(x):
     result=x
     for i in range(1,x):
@@ -12,7 +12,7 @@ def factorial(x):
     return result        
 
 print factorial(6)
-'''
+
 
 # 递归实现阶乘
 
